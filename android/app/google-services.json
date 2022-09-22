@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549390527515",
+    "project_id": "firebase-storage-crud-simple",
+    "storage_bucket": "firebase-storage-crud-simple.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549390527515:android:7b6257eaa16630f93f9cbe",
+        "android_client_info": {
+          "package_name": "com.example.firebase_storage_crud_simple_2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549390527515-jrrdo7mo56gk20un6bcf54i8g9671cir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi4O-BABC91c2T8LgCgOq8RwZ5fKdyY60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549390527515-jrrdo7mo56gk20un6bcf54i8g9671cir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
